@@ -1,0 +1,6 @@
+{
+	"type": "module",
+	"devDependencies": {
+		"get-sass-vars": "^4.0.0"
+	}
+}
